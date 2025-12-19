@@ -42,10 +42,3 @@ AI Ph.D. Student | Computer Vision & Knowledge Distillation
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parky-j&show_icons=true&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parky-j&layout=compact&hide_border=true"/>
-</p>
