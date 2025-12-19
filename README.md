@@ -1,6 +1,6 @@
 ![ViewCount](https://views.whatilearened.today/views/github/parky-j/parky-j.svg)
 
-### Hi there, I'm 박영제 👋  
+### Hi there, I'm Yeongje Park 👋  
 AI Ph.D. Student | Computer Vision & Knowledge Distillation
 
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/parky-j)
