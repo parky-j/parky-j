@@ -34,7 +34,8 @@ AI Ph.D. Student | Computer Vision & Knowledge Distillation
   <code><img width="9%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="9%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <code><img width="9%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <img width="7%" src="https://raw.githubusercontent.com/onnx/onnx/main/docs/ONNX_logo_main.png">
+  <code><img width="7%" src="https://raw.githubusercontent.com/onnx/onnx/main/docs/ONNX_logo_main.png"></code>
+  
   <br/>
   <code><img width="9%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="9%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
