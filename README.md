@@ -84,15 +84,6 @@ My research primarily explores how to build **smaller, faster, and more reliable
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parky-j&show_icons=true&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parky-j&layout=compact&hide_border=true"/>
-</p>
-
----
-
 ## 🤝 Contact
 
 <p align="center">
